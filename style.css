@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.home-details {
+    background-color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-align: center;
+    padding: 20px;
+    margin-top: -40px;
+}
+
+.home-furniture {
+    height: 70vh;
+}
+
+.hotel-name {
+    color: #f19116;
+    font-family: 'Bree Serif';
+    padding-top: 20px;
+}
+
+.hotel-quote {
+    color: #7b8794;
+    font-size: 20px;
+}
+
+.hotel-main-button {
+    background-color: #f19116;
+    color: white;
+    border-style: none;
+    border-radius: 5px;
+    height: 35px;
+    width: 100px;
+    margin-left: 10px;
+
+}
+
+.flats-card {
+    background-color: white;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    height: 250px;
+}
+
+.flats-bg {
+    background-color: black;
+    height: 100vh;
+}
+
+.flat-img {
+    height: 250px;
+}
+
+.flat-card-spacing {
+    padding: 10px;
+}
+
+.flat-type {
+    font-weight: bold;
+    font-family: 'Bree Serif';
+
+}
+
+.flat-description {
+    font-family: 'Bree Serif';
+    color: #6c6b70;
+}
+
+.FlatsDescriptionImages {
+    height: 50vh;
+}
+
+.bhk-bg {
+    background-color: black;
+    height: 50vh;
+    padding-top: 20px;
+}
+
+.bhk-price,
+.bhk-description {
+    color: #f19116;
+    font-family: 'Bree Serif';
+}
+
+.location-logo {
+    height: 40px;
+    width: 40px;
+}
+
+.location-details,
+.flat-details {
+    color: white;
+    font-family: 'Bree Serif';
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+
+.line {
+    background-color: white;
+    height: 3px;
+    width: 550px;
+}
+
+.button-spacing {
+    text-align: center;
+}
